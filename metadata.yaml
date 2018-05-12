@@ -1,0 +1,45 @@
+_repo: J-zyk-Polski-1920-nr-3--maj-czerwiec-_33598
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Rozwadowski, Jan Michał
+    aliases:
+    - Rozwadowski, Jan Michal
+    - Rozwadowski, J. (Jan)
+    birthdate: 1867
+    deathdate: 1935
+    gutenberg_agent_id: '36493'
+    url: http://www.gutenberg.org/2009/agents/36493
+    wikipedia: http://pl.wikipedia.org/wiki/Jan_Micha%C5%82_Rozwadowski
+  - agent_name: Nitsch, Kazimierz
+    birthdate: 1874
+    deathdate: 1958
+    gutenberg_agent_id: '36491'
+    url: http://www.gutenberg.org/2009/agents/36491
+  - agent_name: Łoś, Jan
+    aliases:
+    - Los, Jan
+    - Łoś, Jan Nepomucen
+    - Łoś, J. (Jan)
+    birthdate: 1860
+    deathdate: 1928
+    gutenberg_agent_id: '36492'
+    url: http://www.gutenberg.org/2009/agents/36492
+description: ''
+gutenberg_issued: '2010-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33598'
+language: pl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Polish language -- Periodicals'
+- !lcc 'PG'
+- !lcsh 'Polish literature -- Periodicals'
+title: Język Polski, 1920, nr 3 (maj/czerwiec)
+url: http://www.gutenberg.org/ebooks/33598
